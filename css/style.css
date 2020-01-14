@@ -1,0 +1,1061 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	font-family: 'Merriweather', serif;
+}
+.container {
+
+	width: 1140px;
+	margin: 0 auto;
+}
+
+/* theme css */
+/* heder css start */
+
+
+header {
+
+	background-color: #87519D;
+
+	width: 100%;
+
+	float: left;
+
+	padding: 30px 0px;
+}
+.logo {
+
+	width: 30%;
+
+	float: left;
+
+	padding: 22px 0px;
+}
+.menu{
+	width: 70%;float: left;
+}
+
+nav ul {
+
+	list-style: none;
+}
+
+nav ul li {
+
+	display: inline-block;
+
+	margin: 22px 38px;
+
+	font-size: 27px;
+}
+nav ul li a {
+	
+	text-decoration: none;
+		
+	color: #fff;
+}
+
+
+
+.header-banner {
+
+	width: 60%;
+
+	text-align: center;
+
+	margin: 0 auto;
+
+	padding: 134px 0px;
+
+	color: #fff;
+
+	font-size: 17px;
+
+	line-height: 37px;
+
+}
+
+.header-banner h2 {
+
+
+}
+.btn{
+
+background-color: #ffce3cdb;
+
+color: #fff;
+
+padding: 19px 45px;
+
+margin: 22px 0px;
+
+font-size: 24px;
+
+box-shadow: 4px 5px;
+}
+/* heder css end */
+
+/* banner css start */
+
+.section-banner {
+
+	background-color: #17C0A3;
+
+	width: 100%;
+
+	float: left;
+
+	padding: 27px 0px;
+}
+.section-banner-heding {
+
+	text-align: center;
+
+	width: 57%;
+
+	margin: 0 auto;
+}
+
+.section-banner-heding h2 {
+
+	padding: 9px 0px;
+
+	font-size: 42px;
+
+	color: #000;
+}
+.section-banner-heding span {
+		border-bottom: 4px solid #161616;display: block;
+		width: 151px;margin: 23px auto;
+	}
+
+.section-banner-heding p {
+
+	font-size: x-large;
+}
+
+.banner-list {
+
+	width: 100%;
+
+	float: left;
+
+	text-align: center;
+
+	margin: 31px 19px;
+
+	padding: 11px 0px;
+
+	color: #fff;
+}
+.b-list-one {
+
+	width: 22%;
+
+	float: left;
+
+	padding: 4px 15px;
+}
+
+.b-list-one h2 {
+
+	padding: 15px 0px;
+
+	font-size: 27px;
+}
+
+.b-list-one p {
+
+	
+}
+
+.b-list-tow {
+	width: 22%;float: left;padding: 4px 15px;
+}
+
+.b-list-tow h2 {
+
+	padding: 15px 0px;
+
+	font-size: 27px;
+}
+
+.b-list-tow p {
+
+	
+}
+.b-list-three {
+	width: 22%;float: left;padding: 4px 15px;
+}
+
+.b-list-three h2 {
+
+	padding: 15px 0px;
+
+	font-size: 27px;
+}
+
+.b-list-three p {
+
+	
+}
+
+.b-list-four {
+	width: 22%;float: left;
+	padding: 4px 15px;}
+
+.b-list-four h2 {
+    padding: 15px 0px;
+    font-size: 27px;
+}
+
+.b-list-four p {
+
+	
+}
+
+/* banner css end */
+
+/* profile css start */
+
+.section-profile {
+
+	background-color: #D3D3D3;
+
+	width: 100%;
+
+	float: left;
+
+	padding: 27px 0px;
+}
+.section-profile-heding {
+
+	text-align: center;
+
+	width: 57%;
+
+	margin: 0 auto;
+}
+
+.section-profile-heding h2 {
+
+	padding: 9px 0px;
+
+	font-size: 42px;
+
+	color: #000;
+}
+.section-profile-heding span {
+		border-bottom: 4px solid #161616;
+		display: block;
+		width: 151px;
+		margin: 23px  auto;
+	}
+
+.section-profile-heding p {
+
+	font-size: x-large;
+}
+
+.profile-list {
+
+width: 100%;
+
+float: left;
+
+text-align: center;
+
+margin: 31px 0 auto;
+
+padding: 11px 0px;
+
+color: #161616;
+}
+.p-list-one {
+
+	width: 22%;
+
+	float: left;
+
+	padding: 4px 15px;
+}
+
+.p-list-one h2 {
+
+	padding: 15px 0px;
+
+	font-size: 27px;
+}
+
+.p-list-one p {
+
+	
+}
+
+.p-list-tow {
+	width: 22%;float: left;padding: 4px 15px;
+}
+
+.p-list-tow h2 {
+
+	padding: 15px 0px;
+
+	font-size: 27px;
+}
+
+.p-list-tow p {
+
+	
+}
+.p-list-three {
+	width: 22%;float: left;padding: 4px 15px;
+}
+
+.p-list-three h2 {
+
+			padding: 15px 0px;
+
+			font-size: 27px;
+}
+
+.p-list-three p {
+
+	
+}
+
+.p-list-four {
+			width: 22%;
+			float: left;
+			padding: 16px 9px;
+	}
+
+.p-list-four h2 {
+		    padding: 15px 0px;
+		    font-size: 27px;
+}
+
+.p-list-four p {
+
+	
+}
+
+.scl-icon {
+	
+
+
+}
+
+.scl-icon ul {
+
+width: 100%;
+
+list-style: none;
+
+padding: 4px 2px;
+
+float: left;
+
+text-align: center;
+}
+
+.scl-icon ul li {
+
+		display: inline-block;
+
+		margin: 13px 2px;
+}
+
+.scl-icon ul li a {
+
+
+}
+
+.fa.fa-facebook {
+
+		background: #D3D3D3;
+
+		margin: 4px 0px;
+
+		padding: 3px 7px;
+
+		transition: 0.4s ease-in-out;
+}
+.fa.fa-facebook:hover {
+	
+		background-color: #405D9B;
+			
+		color: #fff;
+			
+		transform: rotate(360deg);
+		}
+
+
+.fa.fa-google {
+		background: #D3D3D3;
+
+		margin: 4px 0px;
+
+		padding: 3px 7px;
+
+		transition: 0.4s ease-in-out;
+}
+.fa.fa-google:hover {
+			background-color: #33A351;
+			
+		color: red;
+			
+		transform: rotate(360deg);
+}
+
+
+.fa.fa-twitter {
+		background: #D3D3D3;
+		color: #fff
+		margin: 4px 0px;
+
+		padding: 3px 7px;
+
+		transition: 0.4s ease-in-out;
+}
+.fa.fa-twitter:hover {
+			background-color: #405D9B;
+			
+		color: #fff;
+			
+		transform: rotate(360deg);
+}
+
+
+.fa.fa-instagram {
+		background: #D3D3D3;
+		color: #A7328C;
+		margin: 4px 0px;
+
+		padding: 3px 7px;
+
+		transition: 0.4s ease-in-out;
+}
+.fa.fa-instagram:hover {
+			background-color: #A7328C;
+			
+		color: #515BD4;
+			
+		transform: rotate(360deg);
+	
+}
+
+/* profile css end */
+
+/* reating reting css start */
+
+.reating-sec {
+	width: 100%;
+	float: left;
+
+
+}
+
+.reating-sec-heding {
+
+width: 100%;
+
+float: left;
+}
+
+.reating-sec-heding h2 {
+
+text-align: center;
+
+font-size: 45px;
+
+padding: 4px 0px;
+
+margin: 11px 0px;
+}
+.reating-sec-heding span {
+
+display: block;
+
+width: 124px;
+
+border-bottom: 5px solid black;
+
+margin: 21px 495px;
+}
+
+.reating-sec-heding p {
+
+text-align: center;
+
+font-size: 30px;
+}
+
+.reating-sec-logo {
+	width: 25%;
+	float: left;
+	text-align: center;
+	margin: 53px 0px;
+	background: #FFFFFF;
+}
+
+.r-s-one {
+}
+
+.r-s-one img {
+
+	
+}
+
+.r-s-one h3 {
+
+margin: 22px 0px;
+
+font-size: 29px;
+}
+
+.r-s-tow {
+
+
+}
+
+.r-s-tow img {
+
+	
+}
+
+.r-s-tow h3 {
+
+margin: 22px 0px;
+
+font-size: 29px;
+}
+
+.r-s-three {
+
+
+}
+
+.r-s-three img {
+
+	
+}
+
+.r-s-three h3 {
+
+margin: 22px 0px;
+
+font-size: 29px;
+}
+
+.r-s-four {
+
+
+}
+
+.r-s-four img {
+
+	
+}
+
+.r-s-four h3 {
+
+margin: 22px 0px;
+
+font-size: 29px;
+}
+
+/* reating reting css end */
+
+/* laptop section css start */
+
+.laptop-section {
+
+width: 100%;
+
+float: left;
+
+background: #FFDC98;
+
+padding: 25px 0px;
+}
+
+.laptop-section-heading {
+
+text-align: center;
+
+width: 70%;
+
+margin: 0 auto;
+}
+
+.laptop-section-heading h2 {
+    font-size: 38px;
+    padding: 13px 0px;
+	
+}
+
+.laptop-section-heading span {
+
+display: block;
+
+border-bottom: 7px solid #000000e8;
+
+width: 25%;
+
+margin: 15px auto;
+}
+
+.laptop-section-heading p {
+
+font-size: 22px;
+}
+
+.btn-all {
+
+width: 100%;
+
+float: left;
+
+margin: 29px 0px;
+}
+
+.btn-one-two {background: #CAAA6D;font-size: 35px;margin: 0px 5px;color: #fff;padding: 5px 20px;}
+
+.btn-thereee {background: #CAAA6D;font-size: 35px;margin: 0px 9px;color: #fff;padding: 5px 20px;}
+
+.btn-fourr {
+
+background: #CAAA6D;
+
+font-size: 35px;
+
+margin: 0px 5px;
+
+color: #fff;
+
+padding: 5px 20px;
+}
+
+.laptop-section-img {
+
+width: 100%;
+
+float: left;
+
+text-align: center;
+}
+.laptop-one {
+
+width: 52%;
+
+float: left;
+}
+
+.laptop-one img {
+
+	
+}
+
+.laptop-one p {
+
+text-align: center;
+
+font-size: 23px;
+
+padding: 4px 0px;
+
+margin: 15px 0px;
+}
+
+
+.laptop-tow {
+
+	
+}
+
+.laptop-tow img {
+
+	
+}
+
+.laptop-tow p {
+
+text-align: center;
+
+font-size: 23px;
+
+padding: 4px 0px;
+
+margin: 15px 0px;
+}
+
+.laptop-three {
+
+width: 50%;
+
+float: left;
+}
+
+.laptop-three img {
+
+	
+}
+
+.laptop-three p {
+
+text-align: center;
+
+font-size: 23px;
+
+padding: 4px 0px;
+
+margin: 15px 0px;
+}
+
+.laptop-four {
+
+	
+}
+
+.laptop-four img {
+
+	
+}
+
+.laptop-four p {
+
+text-align: center;
+
+font-size: 23px;
+
+padding: 4px 0px;
+
+margin: 15px 0px;
+}
+
+.c-btn-sec {
+text-align: center;
+
+}
+
+.c-btn {
+    width: 30%;
+    background-color: #2CD5B8;
+    color: #fff;
+    padding: 19px 48px;
+    margin: 22px 61px;
+    font-size: 37px;
+    box-shadow: 4px 5px;
+}
+
+/* laptop section css end */
+
+/* admin-section css strt */
+
+.admin-section {
+
+width: 100%;
+
+float: left;
+
+color: #FFF;
+
+background: #D64681;
+}
+.admin-section-heading {
+
+text-align: center;
+}
+
+.admin-section-heading h2 {
+
+font-size: 43px;
+
+padding: 5px 0px;
+
+-webkit-text-stroke: thin;
+}
+
+.admin-section-heading span {
+
+border-bottom: 3px solid #161616;
+
+display: block;
+
+width: 136px;
+
+text-align: center;
+
+margin: 19px auto;
+}
+
+.admin-section-heading p {
+
+font-size: 25px;
+}
+
+.all-admin-section {
+
+    width: 100%;
+    float: left;
+    text-align: center;	
+    padding: 22px 0px
+}
+
+.profile-sec-one {
+
+width: 25%;
+    float: left;
+
+}
+
+.profile-sec-one img {
+
+
+
+}
+
+.profile-sec-one p {
+
+
+
+} 
+
+.profile-sec-one h3 {
+
+
+
+} 
+
+.profile-sec-one h5 {
+
+
+
+} 
+
+.profile-sec-tow {
+
+width: 25%;
+    float: left;
+
+}
+
+.profile-sec-tow img {
+
+
+
+}
+
+.profile-sec-tow p {
+
+
+
+} 
+
+.profile-sec-tow h3 {
+
+
+
+} 
+
+.profile-sec-tow h5 {
+
+
+
+} 
+
+
+.profile-sec-three {
+
+width: 25%;
+    float: left;
+
+}
+
+.profile-sec-three img {
+
+
+
+}
+
+.profile-sec-three p {
+
+
+
+} 
+
+.profile-sec-three h3 {
+
+
+
+} 
+
+.profile-sec-three h5 {
+
+
+
+} 
+
+
+.profile-sec-four {
+
+
+
+}
+
+.profile-sec-four img {
+
+
+
+}
+
+.profile-sec-four p {
+
+
+
+} 
+
+.profile-sec-four h3 {
+
+
+
+} 
+
+.profile-sec-four h5 {
+
+
+
+} 
+
+
+
+/* admin-section css end */
+
+
+
+/* comment-section css start */
+
+.comment-section {
+width: 100%;
+float: left;
+padding: 15px 0px;
+background: #3D549A;
+}
+
+.comment-section-heading {
+
+text-align: center;
+}
+
+.comment-section-heading h2 {
+
+font-size: 43px;
+
+padding: 5px 0px;
+
+-webkit-text-stroke: thin;
+}
+
+.comment-section-heading span {
+
+border-bottom: 3px solid #161616;
+
+display: block;
+
+width: 136px;
+
+text-align: center;
+
+margin: 19px auto;
+}
+
+.comment-section-heading p {
+
+font-size: 25px;
+}
+
+
+.comment-section {
+
+
+}
+
+.from-tag {
+
+text-align: center;
+}
+
+.f-one {
+width: 25%;
+    margin: 0px 23px;
+    padding: 17px 54px;
+    font-size: 31px;
+
+}
+
+.f-tow {
+    width: 25%;
+    margin: 0px 23px;
+    padding: 17px 54px;
+    font-size: 31px;
+
+
+}
+
+.f-three {
+
+
+    width: 66%;
+    margin: 0px 23px;
+    padding: 131px 50px;
+    font-size: 31px;
+    text-align: start;
+
+}
+
+/* comment-section css end */
+
+
+/* footer-section css start */
+
+footer {
+width: 100%;
+    float: left;
+    background: #344B8F;
+    color: #fff;
+    display: block;
+}
+}
+
+footer div {
+	
+}
+
+footer div ul {
+	list-style: none;
+}
+
+footer div ul li {
+	display: inline-block;
+    font-size: 29px;
+    padding: 13px 7px;
+    margin: 0 auto;
+}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer-section css end */
